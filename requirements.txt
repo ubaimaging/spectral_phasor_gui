@@ -1,0 +1,8 @@
+phasorpy>=0.9
+numpy
+scipy
+pandas
+matplotlib
+PyQt5
+statsmodels
+fbdfile
