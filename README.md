@@ -77,12 +77,14 @@ python spectral_phasor_gui.py
 
 ---
 
-[## Citation
+## Citation
 
-If you use this software in your research, please cite:
+If you use this software, please cite:
 
-> Lopassio M. et al. (2026). *[Paper title]*. [Journal]. [DOI]](https://github.com/ubaimaging/spectral_phasor_gui.git)
-
+Rossello J., Lopassio M., Rodriguez J., Möller M., Malacrida L.
+*D-alanine analog HADA as an environment-sensitive probe: photophysical 
+characterization and lifetime-based reporting of local polarity, H-bonding, 
+and viscosity.* (2026) Manuscript in preparation.
 ---
 
 ## License
