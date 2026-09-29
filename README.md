@@ -77,11 +77,11 @@ python spectral_phasor_gui.py
 
 ---
 
-## Citation
+[## Citation
 
 If you use this software in your research, please cite:
 
-> Lopassio M. et al. (2026). *[Paper title]*. [Journal]. [DOI]
+> Lopassio M. et al. (2026). *[Paper title]*. [Journal]. [DOI]](https://github.com/ubaimaging/spectral_phasor_gui.git)
 
 ---
 
